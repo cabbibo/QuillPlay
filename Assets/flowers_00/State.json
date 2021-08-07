@@ -1,0 +1,81 @@
+{
+  "Quill": {
+    "Rulers": {
+      "ShowGrid": false
+    },
+    "DetailRender": {
+      "Surface": {
+        "Texture": "None",
+        "Scale": 1.0
+      }
+    },
+    "MoveLayer": "",
+    "PaintLayer": "",
+    "CameraLayer": "",
+    "DirectManipulation": 0,
+    "ToolName": "Paint",
+    "Tool": {
+      "BrushID": 3,
+      "Color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Opacity": 1.0,
+      "Size": 0.01,
+      "TransparentTaper": "None",
+      "WidthTaper": "Pressure",
+      "DirectionalStroke": false
+    },
+    "ColorPalette": [
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82
+    ]
+  }
+}
