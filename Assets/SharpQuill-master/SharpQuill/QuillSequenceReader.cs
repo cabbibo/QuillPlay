@@ -77,6 +77,8 @@ namespace SharpQuill
 
     private static Sequence Parse(dynamic s)
     {
+
+      Debug.Log("MadeHere");
       Sequence seq = new Sequence();
       if (s == null || s.Sequence == null)
         return seq;
